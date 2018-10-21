@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66b5510a-73f1-41a7-a419-2e49641465cd" name="Default" comment="Okay, now I've updated this thing">
+      <change afterPath="$USER_HOME$/.CFUserTextEncoding" afterDir="false" />
+      <change afterPath="$USER_HOME$/.Xauthority" afterDir="false" />
+      <change afterPath="$USER_HOME$/.asepriterc" afterDir="false" />
+      <change afterPath="$USER_HOME$/.bash_history" afterDir="false" />
+      <change afterPath="$USER_HOME$/.bash_profile" afterDir="false" />
+      <change afterPath="$USER_HOME$/.gitconfig" afterDir="false" />
+      <change afterPath="$USER_HOME$/.wing101-6" afterDir="false" />
+      <change afterPath="$USER_HOME$/DNASequences.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_codecs_jp.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_collections.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_crypt.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_curses.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_curses_panel.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_datetime.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_elementtree.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_imp.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_lsprof.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_multiprocessing.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_operator.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_sqlite3.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_sre.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_symtable.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_testbuffer.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_testimportmultiple.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/_warnings.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/array.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/audioop.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/errno.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/itertools.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/mmap.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/nis.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/syslog.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/unicodedata.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/-1199943127/xxlimited.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_ast.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_asyncio.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_bisect.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_blake2.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_bz2.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_codecs.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_codecs_cn.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_codecs_hk.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_codecs_iso2022.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_codecs_jp.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_codecs_kr.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_codecs_tw.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_collections.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_crypt.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_csv.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_ctypes.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_ctypes_test.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_curses.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_curses_panel.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_datetime.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_dbm.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_decimal.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_elementtree.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_functools.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_hashlib.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_heapq.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_imp.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_io.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_json.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_locale.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_lsprof.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_lzma.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_md5.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_multibytecodec.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_multiprocessing.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_opcode.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_operator.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_pickle.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_posixsubprocess.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_random.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_scproxy.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_sha1.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_sha256.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_sha3.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_sha512.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_signal.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_socket.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_sqlite3.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_sre.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_ssl.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_stat.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_string.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_struct.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_symtable.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_testbuffer.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_testcapi.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_testimportmultiple.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_testmultiphase.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_thread.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_tkinter.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_tracemalloc.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_warnings.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/_weakref.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/array.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/atexit.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/audioop.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/binascii.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/builtins.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/cmath.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/errno.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/faulthandler.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/fcntl.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/gc.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/grp.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/itertools.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/marshal.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/math.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/mmap.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/nis.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/parser.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/posix.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/pwd.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/pyexpat.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/readline.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/resource.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/select.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/sys.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/syslog.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/termios.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/time.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/unicodedata.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/xxlimited.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/xxsubtype.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/zipimport.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Library/Caches/PyCharmCE2018.1/python_stubs/1450528951/zlib.py" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/codestyles/Default.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/colors.scheme.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/debugger.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/editor.codeinsight.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/editor.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/github_settings.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/images.support.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/jdk.table.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/keymap.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/laf.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/options.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/packages.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/project.default.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/py_sdk_settings.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjectDirectories.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/stubIndex.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/updates.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/port" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/port.lock" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab1 2.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab1 3.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab1.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab2.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab3.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab5.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab6.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab7.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab8.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab9-part2.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-lab9.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/dphove-labe4.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/experiment_thang_thang.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/experiments_again-3.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/just_steam_things.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/oop_class_week_12.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/other_12.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/person.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/recurse.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/recursive_bruv.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/regular_expressions.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/starry_wars.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/steam_testing_grounds" afterDir="false" />
+      <change afterPath="$USER_HOME$/steam_testing_grounds.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/steam_users.csv" afterDir="false" />
+      <change afterPath="$USER_HOME$/test1.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/test2.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/test3.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/untitled-7.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/week12_and_whatnot.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/week13_ and_such" afterDir="false" />
+      <change afterPath="$USER_HOME$/week13_ and_such.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/week13_cont" afterDir="false" />
+      <change afterPath="$USER_HOME$/week13_cont.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/whatever_the_heck" afterDir="false" />
+      <change afterPath="$USER_HOME$/whatever_the_heck.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JustTestIt.py" beforeDir="false" afterPath="$PROJECT_DIR$/JustTestIt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playgrounds" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PresentPlay.py" beforeDir="false" afterPath="$PROJECT_DIR$/PresentPlay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PresenterBody.py" beforeDir="false" afterPath="$PROJECT_DIR$/PresenterBody.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TensorPlay.py" beforeDir="false" afterPath="$PROJECT_DIR$/TensorPlay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/test2.pptx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Playgrounds.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Playgrounds.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JustTestIt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PresentPlay.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="7" selection-start-line="9" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TensorPlay.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TensorPlay.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PresenterBody.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PresenterBody.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[:</find>
+      <find>[0:</find>
+      <find>cap</find>
+      <find>remem</find>
+      <find>correct</find>
+      <find>weight</find>
+      <find>change matrix</find>
+      <find>accura</find>
+      <find>unedited</find>
+      <find>before</find>
+      <find>this is the</find>
+      <find>this is the s</find>
+      <find>sigm</find>
+      <find>weights is</find>
+      <find>weights</find>
+      <find>%</find>
+      <find>because of</find>
+      <find>actual</find>
+      <find>iter</find>
+      <find>iterat</find>
+      <find>change element</find>
+      <find>+</find>
+      <find>rgb_hex</find>
+      <find>the use</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Playgrounds" />
+        <option value="$PROJECT_DIR$/PresentPlay.py" />
+        <option value="$PROJECT_DIR$/Playgrounds.py" />
+        <option value="$PROJECT_DIR$/JustTestIt.py" />
+        <option value="$PROJECT_DIR$/PresenterBody.py" />
+        <option value="$PROJECT_DIR$/TensorPlay.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="139" />
+    <option name="width" value="1168" />
+    <option name="height" value="561" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ColorsAreAPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColorsAreAPlayground" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ColorsAreAPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ColorsAreAPlayground" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ColorsAreAPlayground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.PresenterBody">
+    <configuration name="JustTestIt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ColorsAreAPlayground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/JustTestIt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Playgrounds" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ColorsAreAPlayground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Playgrounds" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="PresentPlay" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ColorsAreAPlayground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PresentPlay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="PresenterBody" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ColorsAreAPlayground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PresenterBody.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TensorPlay" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ColorsAreAPlayground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TensorPlay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Playgrounds" />
+      <item itemvalue="Python.PresentPlay" />
+      <item itemvalue="Python.JustTestIt" />
+      <item itemvalue="Python.TensorPlay" />
+      <item itemvalue="Python.PresenterBody" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.PresenterBody" />
+        <item itemvalue="Python.TensorPlay" />
+        <item itemvalue="Python.JustTestIt" />
+        <item itemvalue="Python.PresentPlay" />
+        <item itemvalue="Python.Playgrounds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66b5510a-73f1-41a7-a419-2e49641465cd" name="Default" comment="" />
+      <created>1527703226206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527703226206</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Oh my god, how have I not updated this yet.">
+      <created>1531151618949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531151618949</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Okay, now I've updated this thing">
+      <created>1531152169166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1531152169166</updated>
+    </task>
+    <task id="LOCAL-00003" summary="I'm a gradient, but it's not like I'm stochastic, b - baka!">
+      <created>1531753918392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1531753918392</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Once again, not stochastic. Yet.">
+      <created>1531754026804</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531754026804</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Okay, now I've updated this thing">
+      <created>1533140535425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1533140535425</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="139" width="1168" height="561" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2179599" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.14472537" side_tool="true" visible="true" weight="0.34035087" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.8552746" weight="0.34035087" />
+      <window_info anchor="bottom" id="Version Control" order="3" sideWeight="0.49947533" weight="0.32996207" />
+      <window_info anchor="bottom" id="Python Console" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Debug" order="7" sideWeight="0.498713" weight="0.39904422" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="5" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Oh my god, how have I not updated this yet." />
+    <MESSAGE value="I'm a gradient, but it's not like I'm stochastic, b - baka!" />
+    <MESSAGE value="Once again, not stochastic. Yet." />
+    <MESSAGE value="Okay, now I've updated this thing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Okay, now I've updated this thing" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>329</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>387</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>402</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>430</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>439</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>459</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>372</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>529</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>232</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PresentPlay.py</url>
+          <line>184</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Playgrounds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresenterBody.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playgrounds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresenterBody.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="148" column="18" lean-forward="true" selection-start-line="148" selection-start-column="18" selection-end-line="148" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playgrounds" />
+    <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="65" column="14" lean-forward="true" selection-start-line="60" selection-end-line="65" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="121" column="37" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playgrounds" />
+    <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="59" lean-forward="true" selection-start-line="116" selection-start-column="59" selection-end-line="116" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playgrounds" />
+    <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="223" column="29" selection-start-line="223" selection-start-column="29" selection-end-line="223" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playgrounds" />
+    <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="87" column="47" lean-forward="true" selection-start-line="87" selection-start-column="47" selection-end-line="87" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playgrounds" />
+    <entry file="file://$PROJECT_DIR$/JustTestIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Playgrounds.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresentPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PresenterBody.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorPlay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="23" lean-forward="true" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

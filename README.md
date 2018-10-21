@@ -1,7 +1,4 @@
-# poster-perfection
-
-Summer 2018 - Neural Network Poster Readability Optimization
-
+# Summer 2018 - Neural Network Poster Readability Optimization
 
 Summer research by developing and testing a program that uses neural networks 
 to categorize and correct academic research posters. Corrections are done to maximize 
